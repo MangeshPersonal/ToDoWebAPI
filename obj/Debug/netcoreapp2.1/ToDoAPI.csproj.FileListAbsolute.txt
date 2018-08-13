@@ -1,0 +1,14 @@
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.1\ToDoAPI.deps.json
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.1\ToDoAPI.runtimeconfig.json
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.1\ToDoAPI.runtimeconfig.dev.json
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.1\ToDoAPI.dll
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.csprojResolveAssemblyReference.cache
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.csproj.CoreCompileInputs.cache
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.RazorAssemblyInfo.cache
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.RazorAssemblyInfo.cs
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.AssemblyInfoInputs.cache
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.AssemblyInfo.cs
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\bin\Debug\netcoreapp2.1\ToDoAPI.pdb
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.dll
+C:\Users\mangesh\Source\Repos\ToDoAPI\ToDoAPI\obj\Debug\netcoreapp2.1\ToDoAPI.pdb
