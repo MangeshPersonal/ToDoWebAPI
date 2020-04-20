@@ -29,3 +29,4 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: false
+    arguments: --configuration ($buildconfiguration) --output $(Build.ArtifactStagigDirectory)
